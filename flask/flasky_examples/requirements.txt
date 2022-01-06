@@ -2,7 +2,7 @@ alembic==1.0.0
 amqp==2.3.2
 billiard==3.5.0.4
 blinker==1.4
-celery==4.2.1
+celery==5.2.2
 click==6.7
 config==0.3.9
 dominate==2.3.1
